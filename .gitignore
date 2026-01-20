@@ -49,3 +49,8 @@ fuelink-sessions.json
 
 # TypeScript (if used for types in future)
 *.tsbuildinfo
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
+docs/node_modules
